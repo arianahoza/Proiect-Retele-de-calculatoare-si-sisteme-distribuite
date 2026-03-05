@@ -1,4 +1,4 @@
-Descrierea Infrastructurii de Rețea
+Descrierea Infrastructurii de Rețea(Proiect realizat în CISCO)
 
 Acest proiect vizează implementarea unei soluții complexe de interconectare securizată între două puncte de prezență ale unei organizații, utilizând un tunel VPN Site-to-Site bazat pe protocolul IPsec. Obiectivul principal a fost stabilirea unei comunicări sigure și eficiente între stațiile de lucru din Sediul A și o fermă de servere web localizată în Sediul B, protejând în același timp integritatea datelor prin algoritmi de criptare de înaltă performanță precum AES-256.
 
